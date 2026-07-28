@@ -1,0 +1,5 @@
+<button onclick="toggleInfo()">Show / Hide Information</button>
+
+<p id="extraInfo" style="display:none;">
+This website was developed using HTML, CSS and JavaScript.
+</p>
